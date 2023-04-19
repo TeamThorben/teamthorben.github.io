@@ -34,3 +34,5 @@ Berichte zu den Quiz und weiteren Aktivitäten veröffentlichen wir in unserem [
  [18]: #
  [19]: #
  [20]: #
+
+ {% include _improve_content.html %}
