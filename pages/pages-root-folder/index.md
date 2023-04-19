@@ -9,7 +9,7 @@ header:
   image_fullwidth: header_drop.jpg
 widget1:
   title: "Über uns"
-  url: 'https://thorben.team/blog/'
+  url: 'https://thorben.team/info/'
   image: header-bus.jpg
   text: 'Informationen zu unserem Team.'
 widget2:

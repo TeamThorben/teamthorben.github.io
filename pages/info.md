@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "Über uns"
 subheadline: "Warum das Team Thorben"
 teaser: "Da wir uns gerne den mentalen Herausforderungen stellen, gründeten wir das Team Thorben..."
 permalink: "/info/"
