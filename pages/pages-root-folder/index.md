@@ -13,6 +13,11 @@ widget1:
   image: header-bus.jpg
   text: 'Informationen zu unserem Team.'
 widget2:
+  title: "Baustelle"
+  url: 'https://thorben.team/info/'
+  text: 'Diese Seite befindet sich noch im <em>Aufbau</em>. Inhalte sind entsprechend unvollständig und noch nicht final.'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="./images/baustelle.jpg" width="302" height="182" alt=""/></a>'
+widget3:
   title: "Blog"
   url: 'https://thorben.team/blog/'
   image: logo_kneipenquiz.png
@@ -50,10 +55,9 @@ permalink: /index.html
 homepage: true
 ---
 
-<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
+<div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=YFe7vV2t8ls" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=7lWj2zR9ukc" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
- -->
