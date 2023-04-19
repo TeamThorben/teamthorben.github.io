@@ -6,13 +6,18 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_drop.jpg
 widget1:
+  title: "Über uns"
+  url: 'https://thorben.team/blog/'
+  image: header-bus.jpg
+  text: 'Informationen zu unserem Team.'
+widget2:
   title: "Blog"
   url: 'https://thorben.team/blog/'
-  image: widget-1-302x182.jpg
+  image: logo_kneipenquiz.png
   text: 'Blogeinträge mit Berichten zu den Kneipenquiz und weiteren Aktivitäten.'
-# widget2:
+# widget3:
 #   title: "Über uns"
 #   url: 'https://thorben.team/info/'
 #   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
