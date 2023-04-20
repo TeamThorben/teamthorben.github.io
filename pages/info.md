@@ -8,8 +8,9 @@ header:
     image_fullwidth: "header_unsplash_2.jpg"
 ---
 ...und lernten in vielen Quiz mit herausragenden Fragen viel dazu und gehen durch Dick und Dünn in den Kneipenquiz im [Pfannestiel][1].
+Seit dem 22.09.2021 sind wir wöchentlich beim Kneipenquiz im [Pfannestiel][1] vertreten.
 
-Woher unser Name kommt? Wir sind benannt nach einem unserer Gründer und Teammitglieder. Die detaillierte Geschichte kann man bei einem Bier persönlich bei uns nachfragen.
+Woher unser Name kommt? Wir sind nach einem unserer Gründer und Teammitglieder benannt. Die detaillierte Geschichte kann man bei einem Bier persönlich bei uns nachfragen.
 
 Berichte zu den Quiz und weiteren Aktivitäten veröffentlichen wir in unserem [Blog][8].
 
