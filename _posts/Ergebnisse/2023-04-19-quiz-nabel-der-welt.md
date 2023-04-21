@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: Templates
+subheadline: Quiz 19.04.2023
 title:  "Nicht vollständig Nabel der Welt"
 teaser: "Silbermedaille beim Quiz um den 'Nabel der Welt'"
 meta_teaser: "Platz 2 beim 'Nabel der Welt'"
