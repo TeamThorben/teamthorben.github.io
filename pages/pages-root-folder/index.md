@@ -10,13 +10,13 @@ header:
 widget1:
   title: "Über uns"
   url: 'https://thorben.team/info/'
-  image: header-bus.jpg
+  image: hammer3.jpg
   text: 'Informationen zu unserem Team.'
-widget2:
-  title: "Baustelle"
-  url: 'https://thorben.team/info/'
-  text: 'Diese Seite befindet sich noch im <em>Aufbau</em>. Inhalte sind entsprechend unvollständig und noch nicht final.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="./images/baustelle.jpg" width="302" height="182" alt=""/></a>'
+# widget2:
+#   title: "Baustelle"
+#   url: 'https://thorben.team/info/'
+#   text: 'Diese Seite befindet sich noch im <em>Aufbau</em>. Inhalte sind entsprechend unvollständig und noch nicht final.'
+#   video: '<a href="#" data-reveal-id="videoModal"><img src="./images/baustelle.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Blog"
   url: 'https://thorben.team/blog/'
@@ -46,9 +46,9 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/7lWj2zR9ukc" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div> -->

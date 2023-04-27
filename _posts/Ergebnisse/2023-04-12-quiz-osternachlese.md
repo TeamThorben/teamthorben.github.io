@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+    image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 12.04.2023
 title:  "Herausragender Sieg beim 'Osternachlese'-Quiz"
 teaser: "Rotierender Vorsitz zeigt erstmals Ergebnisse"

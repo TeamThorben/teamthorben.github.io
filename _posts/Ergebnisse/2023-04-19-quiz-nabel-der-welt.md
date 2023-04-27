@@ -1,5 +1,7 @@
 ---
 layout: page
+header:
+    image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 19.04.2023
 title:  "Nicht vollständig Nabel der Welt"
 teaser: "Silbermedaille beim Quiz um den 'Nabel der Welt'"
