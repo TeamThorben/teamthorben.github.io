@@ -44,16 +44,17 @@
                 var counterContainer = document.querySelector(".website-counter");
                 var visitCount = localStorage.getItem("page_view");
                 var visitCountCountdown = localStorage.getItem("page_view_cd");
+                var cooldownLimit = 8;
                 if (visitCount) {
                   visitCount = Number(visitCount);
                   visitCountCountdown = Number(visitCountCountdown) - 1;
                   if (visitCountCountdown <= 0) {
                     visitCount = visitCount + Math.floor(Math.random() * 2102);
-                    visitCountCountdown = Math.floor(Math.random() * 21)
+                    visitCountCountdown = Math.floor(Math.random() * cooldownLimit)
                   }
                 } else {
                   visitCount = Math.floor(Math.random() * 10000) + 950;
-                  visitCountCountdown = Math.floor(Math.random() * 21)
+                  visitCountCountdown = Math.floor(Math.random() * cooldownLimit)
                 }
                 localStorage.setItem("page_view", visitCount);
                 localStorage.setItem("page_view_cd", visitCountCountdown);
