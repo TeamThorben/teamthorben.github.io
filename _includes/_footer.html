@@ -42,13 +42,21 @@
               <div class="website-counter" style="background-color: #313131;  height: 50px;  width: 80px;  color: white;  border-radius: 30px;  font-weight: 700;  font-size: 25px;  margin-top: 10px; display: flex;  justify-content: center;  align-items: center;  flex-direction: column;"></div>
               <script type="text/javascript">
                 var counterContainer = document.querySelector(".website-counter");
-                var visitCount = sessionStorage.getItem("page_view");
+                var visitCount = localStorage.getItem("page_view");
+                var visitCountCountdown = localStorage.getItem("page_view_cd");
                 if (visitCount) {
                   visitCount = Number(visitCount);
+                  visitCountCountdown = Number(visitCountCountdown) - 1;
+                  if (visitCountCountdown <= 0) {
+                    visitCount = visitCount + Math.floor(Math.random() * 2102);
+                    visitCountCountdown = Math.floor(Math.random() * 21)
+                  }
                 } else {
-                  visitCount = Math.floor(Math.random() * 1000) + 100;
+                  visitCount = Math.floor(Math.random() * 10000) + 950;
+                  visitCountCountdown = Math.floor(Math.random() * 21)
                 }
-                sessionStorage.setItem("page_view", visitCount);
+                localStorage.setItem("page_view", visitCount);
+                localStorage.setItem("page_view_cd", visitCountCountdown);
                 counterContainer.innerHTML = visitCount;
               </script>
             </div>
