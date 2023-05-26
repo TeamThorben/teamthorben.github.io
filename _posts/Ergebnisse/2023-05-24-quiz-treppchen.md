@@ -4,7 +4,7 @@ header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 24.05.2023
 title:  "Aufs Treppchen gestolpert"
-teaser: "Gute Leistung mit jedoch paar Schwächen reicht für Platz 3"
+teaser: "Gute Leistung mit Aussetzern reicht für Platz 3"
 meta_teaser: "Gute Leistung reicht für einen dritten Platz"
 breadcrumb: true
 categories:
