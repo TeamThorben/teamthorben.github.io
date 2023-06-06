@@ -31,4 +31,4 @@ Das starke Quizteam bestand aus Jonas, Nadja, Alex, Constantin, Valentin G, Vale
 
 ## Andere Quiz
 {: .t60 }
-{% include list-posts tag='quiz' %}
+{% include list-posts entries='3' offset='1' tag='quiz' %}

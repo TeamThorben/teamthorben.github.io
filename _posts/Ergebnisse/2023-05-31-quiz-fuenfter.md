@@ -30,4 +30,4 @@ Das von Thommy angeführte Quizteam bestand aus Jonas, Nadja, Alex, Valentin S.,
 
 ## Andere Quiz
 {: .t60 }
-{% include list-posts tag='quiz' %}
+{% include list-posts entries='3' offset='1' tag='quiz' %}

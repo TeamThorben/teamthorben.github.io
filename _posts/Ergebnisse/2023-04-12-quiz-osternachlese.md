@@ -31,4 +31,4 @@ Besonders hervorzuheben ist dieser Erfolg, da damit das Team der Lokalmatadore v
 
 ## Andere Quiz
 {: .t60 }
-{% include list-posts tag='quiz' %}
+{% include list-posts entries='3' offset='1' tag='quiz' %}

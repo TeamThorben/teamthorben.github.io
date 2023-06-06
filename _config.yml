@@ -120,7 +120,7 @@ defaults:
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
+      comments: true
       author: Gramy     # Default author for posts
 
 
@@ -205,7 +205,7 @@ og_type                              : 'website'
 #
 # used in _includes/comments
 
-# disqus_shortname:
+disqus_shortname: teamthorben
 
 
 #      _____
