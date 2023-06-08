@@ -17,6 +17,10 @@
   url: "/statistics/"
   side: left
 
+- title: Gästebuch
+  url: "/guestbook/"
+  side: left
+
 - title: "Suche"
   url: "/search/"
   side: right
