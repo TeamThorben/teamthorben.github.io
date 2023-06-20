@@ -26,9 +26,5 @@ Aufgrund der Teamgröße (7) bekamen wir aber 2 Punkte Abzug, wodurch wir mit sc
 Beim nächsten mal greifen wir natürlich wieder nach dem Sieg, vielleicht klappt es dann!
 
 In Jan's Quizrunde waren Jonas, Alex, Valentin G., Thommy, Thorben und Nadja.
-Die Fragen drehten sich unter andereem um Karlsruhe, Sport, den ev. Kirchentag, historische Ereignisse, das Schweizer Taschenmesser, Großstädte, Literatur und exotische Früchte.
+Die Fragen drehten sich unter anderem um Karlsruhe, Sport, den ev. Kirchentag, historische Ereignisse, das Schweizer Taschenmesser, Großstädte, Literatur und exotische Früchte.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}

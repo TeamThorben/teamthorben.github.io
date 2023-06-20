@@ -27,7 +27,3 @@ Die Fragen drehten sich dieses Mal um Interpreten und ihre Getränke, Menschen 2
 
 Das glücklose Quizteam bestand aus Jonas, Nadja, Alex, Constantin, Valentin G, Jan und Thorben.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}

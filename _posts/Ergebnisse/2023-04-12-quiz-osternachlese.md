@@ -28,7 +28,3 @@ Neben dem Erkennen von Kirchen auf Bildern und den Anlässen der verschiedenen O
 Angeführt von Vorsitzenden Jan erzielen Thomas, Valentin S., Alex, Nadja, Thorben, Lulu und Valentin G. den ersten Platz.
 Besonders hervorzuheben ist dieser Erfolg, da damit das Team der Lokalmatadore vom DQV auf den zweiten Platz verwiesen werden konnte.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}

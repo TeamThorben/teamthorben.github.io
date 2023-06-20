@@ -27,7 +27,3 @@ Unter dem Titel 'Der Nabel der Welt oder schon wieder ein Quiz von Tobi' behande
 
 Das dieswöchige Quizteam bestand aus Jonas, Nadja, Alex, Constantin, Valentin G, Jan, Thorben, Valentin S. und Thomas.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}

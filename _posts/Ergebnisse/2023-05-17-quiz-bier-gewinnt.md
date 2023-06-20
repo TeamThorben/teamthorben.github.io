@@ -28,7 +28,3 @@ Die Fragen drehten sich dieses Mal um aktuelle Wahlen, Historisches, Krönungen,
 
 Das erfolgreiche Quizteam bestand aus Jonas, Nadja, Alex, Valentin G, Valentin S., Jan, Thorben sowie Samir und Franzi.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}

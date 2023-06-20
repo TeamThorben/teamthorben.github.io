@@ -39,13 +39,25 @@ format: post
 			{{ content }}
 			</div>
 
+			{% if page.comments == true %}
+			{% include _comments.html %}
+			{% endif %}
+
+			{% if page.categories %}
+			{% assign category = page.categories[0] %}
+			<h2 class="t60" id="andere">Andere {{ category }}</h2>
+			<ul class="side-nav">
+			    {% for post in site.categories.[category] limit:3 offset:1 %}
+			      <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
+			    {% endfor %}
+			      <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
+			</ul>
+			{% endif %}
+
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
 			{% endif %}
 
-			{% if page.comments == true %}
-			{% include _comments.html %}
-			{% endif %}
 		</article>
 	</div><!-- /.medium-8.columns -->
 

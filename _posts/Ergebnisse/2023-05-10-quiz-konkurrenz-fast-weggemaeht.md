@@ -28,7 +28,3 @@ Die Fragen drehten sich dieses Mal um Wörter, Geografie, Feiertage, Landwirtsch
 
 Das starke Quizteam bestand aus Jonas, Nadja, Alex, Constantin, Valentin G, Valentin S., Jan und Thorben.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}

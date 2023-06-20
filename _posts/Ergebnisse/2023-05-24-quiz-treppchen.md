@@ -28,7 +28,3 @@ Die Fragen drehten sich dieses Mal um Politik(er), aktuelle Ereignisse, Fußball
 
 Das von Valentin G. geleitete quirlige Quizteam bestand aus Jonas, Nadja, Alex, Jan, Thorben und Thommy.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}

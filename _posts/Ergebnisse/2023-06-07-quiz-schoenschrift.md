@@ -32,7 +32,3 @@ Aber auch mit einem dritten Platz kann man zufrieden sein, auch wenn die Enttäu
 
 In Nadja's dieswöchigen Quizteam quizzten Jonas, Alex, Valentin S., Valentin G., Thommy, Thorben und Jan.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}

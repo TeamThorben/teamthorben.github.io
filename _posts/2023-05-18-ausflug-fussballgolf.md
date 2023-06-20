@@ -8,7 +8,7 @@ teaser: "Das Quizteam stellt hervorragendes Ballgefühl unter Beweis"
 meta_teaser: "Das Quizteam stellt beim Fußballgolf hervorragendes Ballgefühl unter Beweis"
 breadcrumb: true
 categories:
-    - Ausflug
+    - Ausflüge
 tags:
     - ausflug
 image:
@@ -47,7 +47,3 @@ Alles in allem war es ein toller Tag mit gutem Wetter und noch besserer Stimmung
 
 {% include gallery %}
 
-
-## Andere Ausflüge
-{: .t60 }
-{% include list-posts tag='ausflug' %}

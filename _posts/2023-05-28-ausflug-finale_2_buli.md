@@ -8,7 +8,7 @@ teaser: "Spannende Spiele mit ambitionierten Aufsteigern"
 meta_teaser: "Public Viewing zum Finale der 2. BuLi im Vogel"
 breadcrumb: true
 categories:
-    - Ausflug
+    - Ausflüge
 tags:
     - ausflug
 image:
@@ -48,7 +48,3 @@ Nun freuen wir uns auf die spannenden Spiele zur Relegation zwischen dem HSV und
 
 Dabei waren an diesem spannenden Spieltag Jonas, Mareike, Thorben, Valentin G, Michi, Alex und Jan.
 
-
-## Andere Ausflüge
-{: .t60 }
-{% include list-posts tag='ausflug' %}

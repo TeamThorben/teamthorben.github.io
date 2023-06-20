@@ -27,7 +27,3 @@ Das dieswöchige Quiz war nicht in Themengebiete unterteilt und enthielt verschi
 
 Im dieswöchige Quizteam rätselten Jonas, Nadja, Constantin, Valentin G, Jan und Thorben.
 
-
-## Andere Quiz
-{: .t60 }
-{% include list-posts entries='3' offset='1' tag='quiz' %}
