@@ -9,6 +9,10 @@ header:
     image_fullwidth: "hammer_scenic.jpg"
 ---
 
+Gib unten deine Nachricht ein.
+Man benötigt keinen Account, es gibt eine Option "I'd rather post as a guest", bei der man lediglich den Namen und eine E-Mail hinterlassen muss.
+Beiträge, die ohne Account verfasst werden, müssen meistens leider noch manuell freigeschalten werden, hier also nicht wundern.
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
