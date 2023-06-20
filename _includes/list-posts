@@ -44,7 +44,7 @@
 
   {% elsif tag %}
 
-    {% for post in site.tags.[tag] limit:include.entries %}
+    {% for post in site.tags.[tag] limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
 
