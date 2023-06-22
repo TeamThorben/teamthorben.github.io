@@ -10,7 +10,6 @@ breadcrumb: true
 categories:
     - Ergebnisse
 tags:
-    - test
     - quiz
     - ergebnis
 image:
