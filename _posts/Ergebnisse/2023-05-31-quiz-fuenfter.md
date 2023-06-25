@@ -18,11 +18,11 @@ image:
 author: Gramy
 ---
 
-Beim dieswöchige Quiz kamen das Team leider nicht über den fünften Platz hinaus.
+Beim dieswöchigen Quiz kam das Team leider nicht über den fünften Platz hinaus.
 Trotz solider Leistung und den größtenteils korrekt beantworteten Fragen fehlten am Ende wenige Punkte, um auf die vorderen Plätze aufzuschließen.
 Bei diesem vergleichsweise knappen Endergebnis machten sich die Minuspunkte durch die Gruppengröße bemerkbar, auch wenn das letztlich nicht alleinig für eine Platzierung auf dem Podest genügt hätte.
 
 Die Fragen drehten sich dieses Mal um Sport, Historisches, Politik und Leute von Heute (und Gestern).
 
-Das von Thommy angeführte Quizteam bestand aus Jonas, Nadja, Alex, Valentin S., Mareike, Michi und Constantin.
+Das von Tommy angeführte Quizteam bestand aus Jonas, Nadja, Alex, Valentin S., Mareike, Michi und Constantin.
 
