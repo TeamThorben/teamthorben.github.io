@@ -22,7 +22,7 @@ Unter der Leitung von Thorben ackerten wir uns durch das schwere Quiz von Martin
 Das Quiz stieß tief in unsere Wissenslücken und das altbewährte Raten war leider nur begrenzt erfolgreich.
 Dadurch mussten wir uns mit 46 von 70 Punkten und einem vierten Platz zufrieden geben.
 
-Die Fragen drehten sich dieses Mal um Interpreten und ihre Getränke, Menschen 2023, Begriffe mit 'M', Regionale Geographie, Natur, Geschichte, Dies & Das, Film & Kunst, Sport und Fatale Irrtümer.
+Die Fragen drehten sich dieses Mal um Interpreten und ihre Getränke, Menschen 2023, Begriffe mit 'M', Regionale Geographie, Natur, Geschichte, Dies & Das, Film & Kunst, Sport und fatale Irrtümer.
 
 Das glücklose Quizteam bestand aus Jonas, Nadja, Alex, Constantin, Valentin G, Jan und Thorben.
 

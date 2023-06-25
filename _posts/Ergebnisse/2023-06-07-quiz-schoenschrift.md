@@ -24,10 +24,10 @@ Hier verzweifelten wir nicht und obwohl einige Antworten angezweifelt wurden, ko
 Auch die nachfolgenden Fragen, bei der eine Stadt gesucht wurde und Fragen zu Berliner Schnauze, Gemeinsamkeiten von Wörtern/Begriffen, Serbien, Käse, Dies und Das sowie nach einigen Jahreszahlen gestellt wurden, konnten wir größtenteils korrekt beantworten.
 
 Einen Bonuspunkt gab es dieses Mal für schöne Schrift.
-Obwohl Nadja's Schrift vom Quizmaster lobend erwähnt wurden, bekamen den Bonus auch die anderen Teams, wodurch wir leider keinen Vorteil einfahren konnten.
+Obwohl Nadjas Schrift vom Quizmaster lobend erwähnt wurden, bekamen den Bonus auch die anderen Teams, wodurch wir leider keinen Vorteil einfahren konnten.
 
-Am Ende war es ein Kopf an Kopf rennen, das wir durch wenige Fehler und die Gruppengröße leider nicht für uns entscheiden konnten.
+Am Ende war es ein Kopf-an-Kopf-Rennen, das wir durch wenige Fehler und die Gruppengröße leider nicht für uns entscheiden konnten.
 Aber auch mit einem dritten Platz kann man zufrieden sein, auch wenn die Enttäuschung anfangs tief saß. 
 
-In Nadja's dieswöchigen Quizteam quizzten Jonas, Alex, Valentin S., Valentin G., Thommy, Thorben und Jan.
+In Nadjas dieswöchigen Quizteam quizzten Jonas, Alex, Valentin S., Valentin G., Tommy, Thorben und Jan.
 

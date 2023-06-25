@@ -18,10 +18,10 @@ image:
 author: Gramy
 ---
 
-Beim dieswöchige Quiz von Quizmaster Constantin unter der Führung von Valentin S. konnten wir endlich wieder ausgiebig Jubeln!
+Beim dieswöchigen Quiz von Quizmaster Constantin unter der Führung von Valentin S. konnten wir endlich wieder ausgiebig jubeln!
 Wir beantworteten die Fragen sicher, auch wenn manche Details sich unseren Kenntnissen entzogen.
-Trotzdem reichte die Leistung vor allem durch das Erkennen von verschiedenen Logos von Biermarken, womit wir uns etwas von der Konkurrenz abheben und andere Schwächen ausgleichen konnten.
-Dies ermöglichte uns den Sieg mit einem Punkt vorsprung.
+Trotzdem reichte die Leistung vor allem durch das Erkennen verschiedener Logos von Biermarken, womit wir uns etwas von der Konkurrenz abheben und andere Schwächen ausgleichen konnten.
+Dies ermöglichte uns den Sieg mit einem Punkt Vorsprung.
 
 Die Fragen drehten sich dieses Mal um aktuelle Wahlen, Historisches, Krönungen, Sammeln, Welterbe, Sport und Bier.
 

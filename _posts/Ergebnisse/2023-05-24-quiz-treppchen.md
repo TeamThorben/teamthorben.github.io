@@ -18,12 +18,12 @@ image:
 author: Gramy
 ---
 
-Beim dieswöchige Quiz unter dem Titel "Das Wichtige und das Andere" von Tobias konnten wir aufs Treppchen stolpern!
+Beim dieswöchigen Quiz unter dem Titel "Das Wichtige und das Andere" von Tobias konnten wir aufs Treppchen stolpern!
 Vieles konnten wir beantworten, teilweise mangelte es ein bisschen an Präzision oder genaueren Kenntnissen, wodurch wir einige Punkte liegen gelassen haben.
 Am Ende konnten wir mit 43,5 von 70 Punkten einen guten dritten Platz erquizzen, nur einen Punkt hinter den Zweitplatzierten.
-Die dieswöchigen Sieger waren aber unschlagbar und konnten mit weiteren 10 Punkten Abstand sich vom zweiten Platz weit absetzen.
+Die dieswöchigen Sieger waren aber unschlagbar und konnten sich mit weiteren 10 Punkten Abstand vom zweiten Platz weit absetzen.
 
 Die Fragen drehten sich dieses Mal um Politik(er), aktuelle Ereignisse, Fußball und anderen Sport (wie rhythmische Sportgymnastik), die Nationalversammlung und andere Jubiläen und den ESC.
 
-Das von Valentin G. geleitete quirlige Quizteam bestand aus Jonas, Nadja, Alex, Jan, Thorben und Thommy.
+Das von Valentin G. geleitete quirlige Quizteam bestand aus Jonas, Nadja, Alex, Jan, Thorben und Tommy.
 
