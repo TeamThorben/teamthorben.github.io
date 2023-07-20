@@ -37,5 +37,5 @@ Es bleibt abzuwarten, welche aufregenden Themen und Fragen uns beim nächsten Qu
 Doch eines steht fest: Wir sind bereit, unsere grauen Zellen erneut herauszufordern und gemeinsam als Team zu wachsen. 
 Gemeinsam sind wir (fast) unschlagbar!
 
-Das Quizteam bestand diese Woche aus Nadja, Alex, Constantin, Valentin S., Valentin G., Thorben, Mechler, Thommy, Jan und Jonas.
+Das Quizteam bestand diese Woche aus Nadja, Alex, Constantin, Valentin S., Valentin G., Thorben, Mechler, Tommy, Jan und Jonas.
 

@@ -23,4 +23,4 @@ Bei den Fragen um die Internationale Küche, bewegte Luft und Vergleichbares, Fi
 Am Ende konnten wir sehr zufrieden sein und hatten eine solide Punktzahl, es fehlten aber trotzdem einige Punkte gegen die dieses mal übermächtigen Konkurrenten aus dem DQV.
 Entsprechend blieb uns nur ein solider zweiter Platz mitsamt dem Trostschnapps.
 
-Der Vorsitzende Jan leitet die Runde mit den Quizzern Nadja, Jonas, Alex, Constantin, Valentin S., Thommy und Thorben.
+Der Vorsitzende Jan leitet die Runde mit den Quizzern Nadja, Jonas, Alex, Constantin, Valentin S., Tommy und Thorben.
