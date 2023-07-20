@@ -29,4 +29,4 @@ Ein Eklat ereignete sich, als unsere Antwort "Backen" bei der Frage "Was wird so
 Somit erreichten wir mit 19 von 31 Punkten einen Punktegleichstand mit einem anderen Team, wodurch wir durch unsere Gruppengröße lediglich auf Platz 2 gesetzt wurden.
 
 Die Fragen drehten sich unter anderem um ParSec, Wortwitze, Schach, Kultur, internationale Rufnummervorwahlen, Kfz und ihre Kennzeichen, Musik und weiteres allgemeines Wissen.
-In der Quizrunde unter Nadja rätselten dieses Mal Jonas, Alex, Constantin, Valentin G., Valentin S., Thommy, Thorben und Jan.
+In der Quizrunde unter Nadja rätselten dieses Mal Jonas, Alex, Constantin, Valentin G., Valentin S., Tommy, Thorben und Jan.
