@@ -18,8 +18,9 @@ image:
 author: Gramy
 ---
 
-Das dieswöchige Quiz wurde von Thorben gestellt, der natürlich ganz genau unsere Stärken und vor allem Schwächen kennt und das Quiz entsprechend gestaltete.
+Das dieswöchige Quiz wurde erneut vom glücklichen Jonas angeführt, der die zufällige Auswahl zur Quizführung erneut für sich gewinnen konnte.
 
+Die Fragen des Quiz wurde von Thorben gestellt, der natürlich ganz genau unsere Stärken und vor allem Schwächen kennt und das Quiz entsprechend gestaltete.
 Thorben eröffnete das Quiz mit einer Reihe von Fragen über unsere Heimatstadt Karlsruhe. 
 Obwohl die meisten von uns mit den Grundlagen vertraut waren, waren einige der tieferen Fragen durchaus knifflig. Wir haben uns gut geschlagen und die meisten Punkte aus dieser Runde geholt.
 
