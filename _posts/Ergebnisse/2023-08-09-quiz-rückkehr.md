@@ -20,7 +20,7 @@ author: Gramy
 
 Geselliges Beisammensein, Wissensdurst und ein Hauch von Wettbewerb – das waren die Zutaten für einen aufregenden Abend beim dieswöchigen Kneipenquiz. Ein bunt gemischtes Team von Wissbegierigen trat in einem schier epischen Kampf des Geistes an, um sich als ultimatives Quizteam zu beweisen. Doch der Abend hielt mehr Überraschungen bereit, als man es sich zu Beginn hätte vorstellen können. 
 
-Dies ist die Odysee des Quizfaschisten Alex und seiner tollkühnen Crew:
+Dies ist die Odyssee des Quizfaschisten Alex und seiner tollkühnen Crew:
 
 In einer Kneipe kuschelig, das Gemüt am Glimmern,<br>
 Grübelten die Gruppen über Fragen, so schimmern.<br>
