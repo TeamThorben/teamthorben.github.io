@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 23.08.2023
+subheadline: Quiz 30.08.2023
 title:  "Desaströse Leistung"
 teaser: "Mehrere Fehler führen zu unterirdischem Ergebnis"
 meta_teaser: "Verbesserungswürdiges Ergebnis aufgrund mehrerer Fehler"
