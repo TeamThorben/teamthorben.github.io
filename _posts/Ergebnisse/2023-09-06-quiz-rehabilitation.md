@@ -40,4 +40,4 @@ Vor allem, da im Siegerteam jemand Geburtstag hatte, gönnten wir ihnen den verd
 Nächste Woche sind wir jedoch wieder voller Ehrgeiz dabei und werden alles geben, um den Sieg wieder in greifbare Nähe zu rücken. 
 Das Team Thorben ist bereit, sich weiter zu rehabilitieren!
 
-Bis zum nächsten Quizabend und Prost auf den Trostschnapps!
+Unter der Leitung von Constantin bestand das Team aus Jonas, Jan, Thorben und Alex. 
