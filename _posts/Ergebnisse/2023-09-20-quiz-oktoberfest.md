@@ -5,7 +5,7 @@ header:
 subheadline: Quiz 20.09.2023
 title:  "Oktoberfest, da können wir fest"
 teaser: "Zurück auf dem Silberrang"
-meta_teaser: "Wieder Platz 2 beim allgemeinen Quiz mit u.a. Schwerpunklt Oktoberfest"
+meta_teaser: "Wieder Platz 2 beim allgemeinen Quiz mit u.a. Schwerpunkt Oktoberfest"
 breadcrumb: true
 categories:
     - Ergebnisse
