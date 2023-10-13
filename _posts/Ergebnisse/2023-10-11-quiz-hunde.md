@@ -4,7 +4,7 @@ header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 11.10.2023
 title:  "Hunde, wollt ihr ewig leben"
-teaser: "Beim Quiz auf den Hund gekommen (und Platz 2)"
+teaser: "Beim Quiz auf den Hund gekommen (und auf Rang 2)"
 meta_teaser: "Stabile Leistung führt erneut zu Platz 2 im Hundequiz"
 breadcrumb: true
 categories:
