@@ -43,6 +43,6 @@ Zu guter Letzt schlugen wir im Sport zu. Punkte flogen durch die Luft, als hätt
 
 Unser Anführer Alex führte das Team mit einer Mischung aus Wissen und einer Prise Glück zu einem zweiten Sieg in Folge.
 Mit stolzen 71 Punkten verließen wir die Arena des Wissens, als strahlende Helden des Pfannestiels. 
-Team Thorben hatte erneut bewiesen, dass wir nicht nur die Namen von Schokoriegeln kennen, sondern auch die Champions des Pfannestielquizuniversums sind. 
+Team Thorben mit den wackeren Quizzern Alex, Constantin, Thomy, Jonas, Ruben, Thorben und Jan hatte erneut bewiesen, dass wir nicht nur die Namen von Schokoriegeln kennen, sondern auch die Champions des Pfannestielquizuniversums sind. 
 Ein weiterer Sieg für die Geschichtsbücher – und vielleicht auch für die nächste Quiznacht im Pfannestiel! 🏆✨
 
