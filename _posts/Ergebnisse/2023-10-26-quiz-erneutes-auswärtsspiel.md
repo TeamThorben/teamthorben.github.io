@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 28.09.2023
+subheadline: Quiz 28.09.2023 Auswärts
 title:  "Auswärtsspiel im Cafe Le Journal"
 teaser: "Tragische Silbermedaille"
 meta_teaser: "Wieder Platz 2 beim Pubquiz im Journal"
