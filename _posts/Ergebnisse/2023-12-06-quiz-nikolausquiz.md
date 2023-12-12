@@ -31,4 +31,6 @@ Von der Europaflagge über den längst verschollenen Sender VIVA bis hin zu den 
 
 In dieser epischen Schlacht der Köpfe fanden sich Alex, Constantin, Jan, Jonas und natürlich der wiedergekehrte Valentin unter der Führung des Wissenschaftsgurus wieder. 
 Eine Allianz, die selbst die Sternenkonstellationen vor Neid erblassen ließ. 
-Ob wir triumphieren oder scheitern würden, war zu diesem Zeitpunkt noch in den Sternen geschrieben – aber mit Valentin am Steuer hatten wir eine kompetente Führung an der wir nicht zweifelten! 🚀🌌
+Ob wir triumphieren oder scheitern würden, war zu diesem Zeitpunkt noch in den Sternen geschrieben – aber mit Valentin am Steuer hatten wir eine kompetente Führung an der wir nicht zweifelten! 
+Am Ende reichte unser Wissen leider nur für den dritten Rang.
+🚀🌌
