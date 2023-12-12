@@ -3,7 +3,7 @@ layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 06.12.2023
-title:  "Siegesserie reißt an Nikolaus"
+title:  "Siegesserie aus am Nikolaus"
 teaser: "Kein Spritzgebäck vom Fikolaus"
 meta_teaser: "Siegesserie konnte nicht fortgesetzt werden"
 breadcrumb: true
