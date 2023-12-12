@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 30.11.2023
+subheadline: Quiz 30.11.2023 Auswärts
 title:  "Auswärtssieg im Le Journal"
 teaser: "Im dritten Anlauf endlich der langersehnte Sieg"
 meta_teaser: "Unangefochtener Sieg beim Auswärtsquiz im Le Journal"
