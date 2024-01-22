@@ -3,8 +3,8 @@ layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 17.01.2024
-title:  "Zurück auf den verdienten Siegerrang"
-teaser: "Nach der Talfahrt letzter Woche auf den Bronzerang, holen wir uns erneut den Sieg"
+title:  "Zurück auf dem verdienten Siegerrang"
+teaser: "Nach der Talfahrt letzter Woche auf den Bronzerang holen wir uns erneut den Sieg"
 meta_teaser: "Überzeugendes Comeback"
 breadcrumb: true
 categories:
