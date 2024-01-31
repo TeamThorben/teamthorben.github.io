@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 17.01.2024
+subheadline: Quiz 24.01.2024
 title:  "Silberner Jahresrückblick"
 teaser: "Gute, aber nicht optimale Leistung beim Rückblick auf das Jahr 2023"
 meta_teaser: "Platz Zwei im Jahresrückblick-Quiz"
