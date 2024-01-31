@@ -14,6 +14,7 @@ tags:
     - ergebnis
 image:
     title: gen_240124_wurstschmuggler.jpg
+    caption: Der Wurstschmuggler auf dem Weg zum Pfannestiel-Kneipenquiz
 author: Gramy
 ---
 
