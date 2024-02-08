@@ -18,12 +18,12 @@ image:
 author: Gramy
 ---
 
-> Lichter flack'ren tief,
-> Stimmenrausch in dunkler Ecke,
+> Lichter flack'ren tief,<br>
+> Stimmenrausch in dunkler Ecke,<br>
 > Wissen, es entscheidet.
 > 
-> Fragen fliegen schnell,
-> Biergläser klirren leise,
+> Fragen fliegen schnell,<br>
+> Biergläser klirren leise,<br>
 > Sieg in jedem Blick.
 
 
