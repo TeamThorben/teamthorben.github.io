@@ -18,6 +18,15 @@ image:
 author: Gramy
 ---
 
+> Lichter flack'ren tief,
+> Stimmenrausch in dunkler Ecke,
+> Wissen, es entscheidet.
+> 
+> Fragen fliegen schnell,
+> Biergläser klirren leise,
+> Sieg in jedem Blick.
+
+
 Diese Woche wagte sich das Team Thorben mutig ins Schlachtfeld des Kneipenquiz, geleitet von den legendären Giraffen, die zum ersten Mal die Rolle der Quizmeister übernahmen. 
 Wir waren sozusagen die unwissenden Gladiatoren, die ohne Vorwarnung in die Arena des Wissens geworfen wurden.
 
