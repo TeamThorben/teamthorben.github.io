@@ -3,9 +3,9 @@ layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 21.02.2024
-title:  "TODO"
-teaser: "TODO"
-meta_teaser: "TODO"
+title:  "Feierliche Stimmung trotz knapp verfehltem Sieg"
+teaser: "Zweiter Platz bei Punktgleichheit beim Quiz aus den eigenen Reihen"
+meta_teaser: "Zweiter Platz "
 breadcrumb: true
 categories:
     - Ergebnisse
