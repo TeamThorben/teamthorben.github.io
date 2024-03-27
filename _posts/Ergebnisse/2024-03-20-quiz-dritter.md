@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 13.03.2024
+subheadline: Quiz 20.03.2024
 title:  "Wieder nur Dritter"
 teaser: "Leider fehlte uns das letzte Quäntchen zum Sieg"
 meta_teaser: "Knappes Resultat bei herausfordernden Quiz"
