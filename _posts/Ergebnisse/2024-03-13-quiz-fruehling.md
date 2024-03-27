@@ -3,9 +3,9 @@ layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 13.03.2024
-title:  "TODO"
-teaser: "TODO"
-meta_teaser: "TODO"
+title:  "Kein Frühlingserwachen"
+teaser: "Wieder nur Rang Drei bei Frühlingsquiz"
+meta_teaser: "Erneuter Bronzerang bei Quiz unter dem Motto 'Frühling'"
 breadcrumb: true
 categories:
     - Ergebnisse
