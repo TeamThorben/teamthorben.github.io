@@ -3,7 +3,7 @@ layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 01.05.2024
-title:  "Quiz knechtet die ~~Arbeiter~~ Quizzer"
+title:  "Quiz knechtet die <s>Arbeiter</s> Quizzer"
 teaser: "Der Quizmeister lässt uns schwitzen"
 meta_teaser: "Platz 2 beim Quiz am Tag der Arbeit"
 breadcrumb: true
