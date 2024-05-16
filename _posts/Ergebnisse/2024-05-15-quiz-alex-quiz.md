@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 08.05.2024
+subheadline: Quiz 15.05.2024
 title:  "Zweiter Sieger"
 teaser: "Quizmeister drückt uns auf Rang zwei"
 meta_teaser: "Solide Leistung, aber Quizmeister Alex möchte uns nicht siegen lassen"
