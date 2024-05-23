@@ -37,6 +37,6 @@ Bis zum nächsten Quiz, wenn wir erneut in die Schlacht ziehen und unsere Legend
 
 
 <details>
-    <summary>Zeit-Rätsel: Was kann man scherzhaft als "baumlanger Abschnitt anderer Prügel" umschreiben?</summary>
+    <summary>Zeit-Rätsel: Was kann man scherzhaft als "baumlanger Abschnitt anderer Prügel" umschreiben? (Klicken für Auflösung)</summary>
     Esche
 </details>
