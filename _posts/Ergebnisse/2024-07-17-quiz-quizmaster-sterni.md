@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 18.07.2024
+subheadline: Quiz 17.07.2024
 title:  "Quizmeister Alex lässt uns schwitzen"
 teaser: "Cooles Quiz von Teammitglied Alex"
 meta_teaser: "Cooles Quiz von Teammitglied Alex"
