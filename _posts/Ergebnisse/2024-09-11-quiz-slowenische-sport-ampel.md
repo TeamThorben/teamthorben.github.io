@@ -38,6 +38,6 @@ Sportlich ging’s dann weiter, und auch hier konnten wir uns sehen lassen – J
 
 #### Endergebnis: „Kein Kronenklau, aber knapp am Championsthron vorbei“
 
-Unsere Leistung war durchweg beeindruckend – fast hätten wir den Sieg nach Hause getragen! Doch das „letzte Quäntchen Quizglück“ blieb uns diesmal verwehrt. Mit Jonas als Captain und dem tatkräftigen Team aus Ruben, Dorothee, Jan und Thorben reichte es letztlich für einen beachtlichen zweiten Platz. Kein Grund, die Köpfe hängen zu lassen – der nächste Sieg ist so sicher wie die nächste rote Ampel!
+Unsere Leistung war durchweg beeindruckend – fast hätten wir den Sieg nach Hause getragen! Doch das „letzte Quäntchen Quizglück“ blieb uns diesmal verwehrt. Mit Jonas als Captain und dem tatkräftigen Team aus Ruben, Dorothee, Maja, Jan und Thorben reichte es letztlich für einen beachtlichen zweiten Platz. Kein Grund, die Köpfe hängen zu lassen – der nächste Sieg ist so sicher wie die nächste rote Ampel!
 
 **Fazit:** Auch wenn Constantin uns den Sieg „aus der Hand quizzte“, sind wir mit einem zweiten Platz alles andere als „auf dem Abstellgleis“. Nächstes Mal schalten wir dann endgültig auf „Grün“!
