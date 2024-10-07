@@ -3,7 +3,7 @@ layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 18.09.2024
-title:  "Leistungsstark wie Carolabrücke"
+title:  "Leistungsstark wie die Carolabrücke"
 teaser: "Solide Leistung bis zum Zusammenbruch"
 meta_teaser: "Platz 3 erreicht"
 breadcrumb: true
