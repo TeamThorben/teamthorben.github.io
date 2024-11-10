@@ -30,4 +30,4 @@ Ein Highlight? Definitiv *"Das Super-Filmjahr 1994"*! Vom Shawshank-Redemption-K
 
 Bei "Vier Todesfälle und eine Hochzeit" – einer Runde, die wie ein britischer Film klingt, den niemand je gesehen hat – sicherten wir uns immerhin 3 von 5 Punkten. Doch unser wahres Meisterstück lieferten wir bei den Fragen zur **US-Wahl** ab. Mit einem fantastischen Ergebnis von 9 von 13 Punkten waren wir politisch absolut sattelfest!
 
-Fazit: Unter der Führung von Jonas und mit dem geballten Teamgeist von Alex, Thorben und Constantin haben wir uns tapfer durch die Quiz-Welt geschlagen – klug, kühn und keineswegs knausrig mit den richtigen Antworten. Immerhin erreichten wir mit der Leistung den zweiten Rang. Wieder mal ein toller Quiz-Abend für Team Thorben!
+Fazit: Unter der Führung von Jonas und mit dem geballten Teamgeist von Alex, Thorben und Constantin haben wir uns tapfer durch die Quiz-Welt geschlagen – klug, kühn und keineswegs knausrig mit den richtigen Antworten. Immerhin erreichten wir mit der Leistung den dritten Rang. Wieder mal ein toller Quiz-Abend für Team Thorben!
