@@ -4,7 +4,7 @@ header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 30.10.2024
 title:  "Verfahren bei der Weltumrundung"
-teaser: "Pech beim denken führt zu einer misslungenen Weltreise in 45 Fragen"
+teaser: "Pech beim Denken führt zu einer misslungenen Weltreise in 45 Fragen"
 meta_teaser: "Schlechte Platzierung"
 breadcrumb: true
 categories:
