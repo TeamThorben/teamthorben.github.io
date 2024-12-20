@@ -45,10 +45,11 @@ Hier erwiesen wir uns als mittelmäßige Kenner der Pop-, Klassik- und Schlagerm
 Am Ende des Abends war klar: Der letzte Sieg des Jahres gehört uns!
 Mit einer beeindruckenden Punktzahl erkämpften wir uns den obersten Platz und konnten das Jahr so triumphal beenden, wie wir es begonnen hatten.
 
-2023 war ein Jahr der Erfolge für Team Thorben. Wir gewannen nicht nur das erste und das letzte Quiz, sondern auch zahlreiche Male zwischendurch.
+2024 war ein Jahr der Erfolge für Team Thorben.
+Wir gewannen nicht nur das erste und das letzte Quiz, sondern auch zahlreiche Male zwischendurch.
 Eine Siegesserie von drei aufeinanderfolgenden Triumphen war unser absolutes Highlight, und insgesamt holten wir über ein Drittel aller möglichen Siege.
 
 Unser Fazit: Solide Leistung?
 Nein, grandiose Leistung!
-Jetzt blicken wir nach vorn, bereit, 2024 genauso erfolgreich anzugehen.
+Jetzt blicken wir nach vorn, bereit, 2025 genauso erfolgreich anzugehen.
 Aber zuerst: Hoch die Gläser – auf Team Thorben und ein grandioses Quizjahr! 🥂
