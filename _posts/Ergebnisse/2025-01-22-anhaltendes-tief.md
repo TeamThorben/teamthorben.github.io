@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 15.01.2025
+subheadline: Quiz 22.01.2025
 title:  "Das Tief hält an"
 teaser: "Schaffen wir es dieses Jahr auch mal zum Sieg?"
 meta_teaser: "Das Jahr beginnt schlecht"
