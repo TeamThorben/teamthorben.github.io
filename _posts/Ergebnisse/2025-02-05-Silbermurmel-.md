@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 29.01.2025
+subheadline: Quiz 05.02.2025
 title:  "Nach Gold kommt Silber"
 teaser: "Tolle Leistung reicht zum Silberrang"
 meta_teaser: "Zweiter Platz, knapp aber fair"

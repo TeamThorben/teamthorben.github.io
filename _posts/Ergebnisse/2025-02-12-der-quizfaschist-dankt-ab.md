@@ -2,7 +2,7 @@
 layout: page
 header:
     image_fullwidth: "hammer_scenic.jpg"
-subheadline: Quiz 29.01.2025
+subheadline: Quiz 12.02.2025
 title:  "Alex anstrengende Angelegenheit"
 teaser: "Wir schwitzen uns erneut auf den Silberrang"
 meta_teaser: "Zweiter Platz, knapp aber fair"
