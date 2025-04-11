@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_drop.jpg
+  image_fullwidth: hammer_scenic.jpg
 widget1:
   title: "Über uns"
   url: 'https://thorben.team/info/'
