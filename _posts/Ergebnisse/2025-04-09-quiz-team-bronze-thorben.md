@@ -13,8 +13,8 @@ tags:
     - quiz
     - ergebnis
 image:
-    title: hammer2.jpg
-    caption: Der Team-Hammer
+    title: gen_bronze-logo.png
+    caption: Team Bronze-Thorben
 author: Gramy
 ---
 
