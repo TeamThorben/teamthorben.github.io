@@ -4,7 +4,7 @@ header:
     image_fullwidth: "hammer_scenic.jpg"
 subheadline: Quiz 23.04.2025
 title:  "Mit aller Macht nicht auf Platz 3"
-teaser: "Team Thorben taumelt durchs Traditionsquiz und kann keschickt den dritten Platz entkommen, indem es sich auf Platz 4 quizzt"
+teaser: "Team Thorben taumelt durchs Traditionsquiz und kann geschickt dem dritten Platz entkommen, indem es sich auf Platz 4 quizzt"
 meta_teaser: "Kleine Gruppe erreicht Rang Vier"
 breadcrumb: true
 categories:
